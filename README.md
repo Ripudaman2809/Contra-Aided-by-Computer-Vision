@@ -3,14 +3,14 @@ In this project Computer Vision enables us to play the game using real-life acti
 
 <h3>Controls to play -</h3>
 
-Movement :
+<h5>Movement :</h5>
 Move forward - Stretch your right hand horizontally to go forward.<br>
 Move backward - Stretch your left hand horizontally to go backward.<br>
-Jumping :<br>
+<h5>Jumping :</h5><br>
 Jump in real life to make the character jump in game.<br>
-Crouching :<br>
+<h5>Crouching :</h5><br>
 Crouch in real life to make the character jump in game.<br>
-Shooting :<br>
+<h5>Shooting :</h5><br>
 Make gun sign with your hand to start shooting.<br>
 Point in the direction you want to shoot, to make the player shoot in that direction.<br>
 <br>
