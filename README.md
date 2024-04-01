@@ -1,7 +1,7 @@
 **Playing Contra was always fun as a kid. But, it just got more interesting!!!<br>
 In this project Computer Vision enables us to play the game using real-life actions like jumping, crouching, etc.**<br>
 
-<h3>Controls to play -<h3>
+<h3>Controls to play -</h3>
 <br>
 Movement :
 Move forward - Stretch your right hand horizontally to go forward.<br>
