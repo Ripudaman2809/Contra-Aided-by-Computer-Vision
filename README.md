@@ -2,7 +2,7 @@
 In this project Computer Vision enables us to play the game using real-life actions like jumping, crouching, etc.**<br>
 
 <h3>Controls to play -</h3>
-<br>
+
 Movement :
 Move forward - Stretch your right hand horizontally to go forward.<br>
 Move backward - Stretch your left hand horizontally to go backward.<br>
