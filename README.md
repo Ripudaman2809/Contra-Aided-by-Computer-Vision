@@ -1,5 +1,5 @@
-Playing Contra was always fun as a kid. But, it just got more interesting!!!<br>
-In this project Computer Vision enables us to play the game using real-life actions like jumping, crouching, etc.<br>
+**Playing Contra was always fun as a kid. But, it just got more interesting!!!<br>
+In this project Computer Vision enables us to play the game using real-life actions like jumping, crouching, etc.**<br>
 <br>
 Controls to play - <br>
 <br>
